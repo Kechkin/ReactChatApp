@@ -1,5 +1,5 @@
 # ReactChatApp
-  Enter in the forlder chatBackend - nodemon server.js to start Server
+  Enter in terminal in the folder "chatBackend" - nodemon server.js -  to start Server
   .then
   Enter npm start - React js
   .done
